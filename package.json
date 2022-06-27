@@ -1,0 +1,23 @@
+{
+  "name": "test_webapp",
+  "version": "0.0.0",
+  "description": "test webapp",
+  "main": "js/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o0stephen0o/webapp.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "stephenlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/o0stephen0o/webapp/issues"
+  },
+  "homepage": "https://github.com/o0stephen0o/webapp#readme"
+}
